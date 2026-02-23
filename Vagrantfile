@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
 
 config.vm.box = "eurolinux-vagrant/centos-stream-9”
 
-[config.vm.network](http://config.vm.network) "private_network", ip: "192.168.56.28”
+[config.vm.network](http://config.vm.network) "private_network", ip: "192.168.56.20”
 
 config.vm.network "public_network”
 
