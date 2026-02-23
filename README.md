@@ -4,17 +4,7 @@
 This project provisions a CentOS Stream 9 VM using Vagrant and deploys a static website using Apache HTTP Server.
 
 ## Architecture
-Host Machine
-⬇
-Vagrant
-⬇
-VirtualBox VM
-⬇
-CentOS Stream 9
-⬇
-Apache HTTP Server
-⬇
-Template Website
+Host Machine -> Vagrant -> VirtualBox VM -> CentOS Stream 9 -> Apache HTTP Server -> Template Website
 
 ## Requirements
 - Vagrant
