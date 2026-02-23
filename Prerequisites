@@ -1,6 +1,5 @@
-Required Prerequisites for automated hosting website
+## Required Prerequisites for automated hosting website
 
-1. Chocolatey
-2. virtualbox
-3. Vagrant
-4. Download any tooplate template or you cab use any customized website to host
+1. virtualbox
+2. Vagrant
+3. Download any tooplate template or you cab use any customized website to host
