@@ -11,9 +11,12 @@ Host Machine -> Vagrant -> VirtualBox VM -> CentOS Stream 9 -> Apache HTTP Serve
 - VirtualBox
 
 ## Project Structure
+
+```
 .
 ├── Vagrantfile
 └── README.md
+```
 
 ## Run the Project
 
