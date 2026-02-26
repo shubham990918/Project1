@@ -31,5 +31,6 @@ Mini Finance Website
 ```
 
 ## Run the Project
-
+```
 vagrant up
+```
